@@ -1,0 +1,2 @@
+a = {'_id': ObjectId('5f8dce9698c7bdb1cc54fcd5'), 'UTN': 'LX49UV', 'Ticket Status': 'Not Used', 'Movie': 'The Hacksaw Ridge', 'Timing': '12:00 pm', 'Adults': '3', 'Kids': '1', 'Ticket Total': '619'}
+print(a)
